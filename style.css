@@ -1,0 +1,7 @@
+.bgimg{ 
+    background-image: url(images/bg3.jpg);
+}
+.txtalgn{
+    display: flex;
+    justify-content: center;
+}
